@@ -1,0 +1,79 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="./styles.css" type="text/css" />
+  </head>
+  <body data-new-gr-c-s-check-loaded="14.1135.0" data-gr-ext-installed="">
+    <h1>Real Madrid Player Skills</h1>
+    <h2>Players</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Skill</th>
+          <th>Name</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="code">Dribbling</span></td>
+          <td>Vini Jr.</td>
+          <td>The best dribbler</td>
+        </tr>
+        <tr>
+          <td><span class="code">Skillful</span></td>
+          <td>Camavinga</td>
+          <td>The most Skillful and loved player by the rest of the team.</td>
+        </tr>
+        <tr>
+          <td><span class="code">Brick Wall</span></td>
+          <td>Cortouis</td>
+          <td>A wall behind goals.</td>
+        </tr>
+        <tr>
+          <td><span class="code">Complete Footballer</span></td>
+          <td>Valverde</td>
+          <td>Fede is the best all round player in the pitch.</td>
+        </tr>
+        <tr>
+          <td><span class="code">Commander</span></td>
+          <td>Kroos</td>
+          <td>Toni knows how to set the teams tempo.</td>
+        </tr>
+        <tr>
+          <td><span class="code">Experience</span></td>
+          <td>Modric</td>
+          <td>
+            Luka gives the ball more movement and a knows how to break in
+            between lines.
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>New Signings</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Skill</th>
+          <th>Name</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="code">Intelligence</span></td>
+          <td>Jude</td>
+          <td>Great baller with Zidane like skills.</td>
+        </tr>
+        <tr>
+          <td><span class="code">Peg Leg</span></td>
+          <td>Joselu</td>
+          <td>His grandma will be better at scoring.</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+  <grammarly-desktop-integration
+    data-grammarly-shadow-root="true"
+  ></grammarly-desktop-integration>
+</html>
